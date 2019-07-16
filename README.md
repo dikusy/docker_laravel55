@@ -1,4 +1,4 @@
-# lab7_laravel
+# docker_larave55
 
 ## Usage
 
