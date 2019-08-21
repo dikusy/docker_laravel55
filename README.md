@@ -6,7 +6,7 @@
 
 ```bash
 git clone git@github.com:dikusy/docker_laravel55.git
-cd lab7_laravel/docker
+cd docker_laravel55/docker
 docker-compose up -d
 ```
 
