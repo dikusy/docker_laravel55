@@ -5,7 +5,7 @@
 ### コンテナの立ち上げ
 
 ```bash
-git clone git@github.com:taichi0529/lab7_laravel.git
+git clone git@github.com:dikusy/docker_laravel55.git
 cd lab7_laravel/docker
 docker-compose up -d
 ```
